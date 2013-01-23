@@ -7,3 +7,4 @@ Kanban Board, based on HTML5 Local Storage, CSV and Bootstrap.
 
 Whats Kanban? -> http://en.wikipedia.org/wiki/Kanban_board
 
+Try the Demo! -> http://ubuntuone.com/2QJ4NByEb9TQcNoL2ywgZl
